@@ -3,5 +3,18 @@
  }
 
  body {
-   background-color: blueviolet;
+   background-color: rgb(3, 11, 44);
+ }
+
+ h1 {
+  color: azure;
+ }
+ p {
+  color: bisque;
+ }
+ b {
+  color: blanchedalmond;
+ }
+ di {
+  color: bisque;
  }
